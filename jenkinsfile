@@ -6,7 +6,7 @@ node {
 		// requires SonarQube Scanner 2.8+
 		def scannerHome = tool 'sonar-scanner-3.0.3.778'
 		withSonarQubeEnv('sonarScanner') {
-			sh "$sonar-scanner-3.0.3.778/bin/sonar-scanner"
+			sh "$./sonar-scanner-3.0.3.778/bin/sonar-scanner"
 		}
 	}
 }
