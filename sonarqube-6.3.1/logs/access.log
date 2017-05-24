@@ -208,3 +208,7 @@
 127.0.0.1 - - [24/May/2017:12:56:01 -0400] "GET /batch/index HTTP/1.1" 200 - "-" "ScannerCli/3.0.3.778" "AVw7Pzp6Usf28bLGAABg"
 127.0.0.1 - - [24/May/2017:12:56:01 -0400] "GET /api/settings/values.protobuf HTTP/1.1" 200 3440 "-" "ScannerCli/3.0.3.778" "AVw7Pzp6Usf28bLGAABh"
 127.0.0.1 - - [24/May/2017:12:56:02 -0400] "GET /deploy/plugins/index.txt HTTP/1.1" 200 627 "-" "ScannerCli/3.0.3.778" "-"
+127.0.0.1 - - [24/May/2017:12:58:44 -0400] "GET /batch/index HTTP/1.1" 200 - "-" "ScannerCli/3.0.3.778" "AVw7Pzp6Usf28bLGAABi"
+127.0.0.1 - - [24/May/2017:12:58:45 -0400] "GET /api/settings/values.protobuf HTTP/1.1" 401 - "-" "ScannerCli/3.0.3.778" "AVw7Pzp6Usf28bLGAABj"
+127.0.0.1 - - [24/May/2017:12:58:46 -0400] "GET /batch/index HTTP/1.1" 200 - "-" "ScannerCli/3.0.3.778" "AVw7Pzp6Usf28bLGAABk"
+127.0.0.1 - - [24/May/2017:12:58:47 -0400] "GET /api/settings/values.protobuf HTTP/1.1" 401 - "-" "ScannerCli/3.0.3.778" "AVw7Pzp6Usf28bLGAABl"
